@@ -10,6 +10,6 @@
   - Sports:  Volleball - Crazzy crazy sport neh :rofl:
 
 ## WHAT AM I CURRENTLY WORKING ON?
-  - I'm learning **Tailwind and MongoDB**. _ _Why?_ _ I'm planning on creating my personal website with these frameworks :smiley:
+  - I'm learning **React and MongoDB**.  :smiley:
 
  
