@@ -3,6 +3,7 @@
 ## LANGUAGES
   - Java :star_struck:
   - JavaScript :triumph:
+  - Python :star_struck:
  
  ## INTERERSTS
   - Cybersecurity :fire: - I'm looking to change to this path in the future ( have already started by obtaining my CompTIA certs )
