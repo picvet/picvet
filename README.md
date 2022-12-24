@@ -1,4 +1,4 @@
-# PROGRAMMER & TECHNICIAN :wink:
+# PROGRAMMER:wink:
 
 ## LANGUAGES
   - Java :star_struck:
@@ -12,4 +12,12 @@
 ## WHAT AM I CURRENTLY WORKING ON?
   - I'm learning **React and MongoDB**.  :smiley:
 
+ # TECHNICIAN
  
+ ## What I am able to do
+  - Troubleshoot desktop problems ( hardware and software issues )
+  - Work with windows server ( adding users, set permissions etc )
+  - Install network cables, routers and switches
+  - Install peripherals including printers, fax machines and scanners
+  - Design, set up and troubleshoot small LAN/WAN networks
+  - Configure routers and switches
