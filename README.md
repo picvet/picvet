@@ -4,7 +4,7 @@
 https://www.linkedin.com/in/k-percy-zulu/
 
 ![Linkedin Badge](https://img.shields.io/badge/-harshkumarkhatri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/k-percy-zulu/)] 
-[![Outlook Badge](https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:percyzulu2@outlook.com)]
+[![Outlook Badge](https://img.shields.io/badge/-mailpercyzulu2@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:percyzulu2@outlook.com)]
 
 I am Percy Zulu 😃. I am from South Africa currently doing an internship with fluid intellect 🏫. I love to explore and learn about new technologies.
 
