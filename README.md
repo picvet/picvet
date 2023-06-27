@@ -1,19 +1,19 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+👋 Hello! I'm Percy Zulu.
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+🚀 Frontend developer: I specialize in Web Dev, Mobile Dev and Web Design.
 
-![Linkedin Badge](https://img.shields.io/badge/-percyzulu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/k-percy-zulu/)] 
-[![Outlook Badge](https://img.shields.io/badge/-percyzulu2@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:percyzulu2@outlook.com)]
+🌱 I'm passionate about cyber security: Working with code, figuring out how computers work the way they do really excites me and making them do something they weren't intended to do.
 
-I am Percy Zulu 😃. I am from South Africa currently doing an internship with fluid intellect 🏫. I love to explore and learn about new technologies.
+💼 Currently working at Fluid Intellect as Lead Frontend developer and Web Designer.
 
-## ⚡ Technologies
-Talk to me about:
-- Front-end development using **ReactJS, React Native and Tailwind**.
-- Backend development using **Java**.
-- Databases **MySQL and MongoDB**.  
-- Mobile application development using **Java and React Native**.
-  
+🎓 Graduated from Tshwane University of Technology with a diploma in Computer Science.
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=picvet&hide=["issues"]&show_icons=true)
+🔭 I’m currently working on learning C++.
 
+💡 I enjoy collaborating on full-stack projects: React, React Native and Spring boot.
+
+📫 How to reach me: [email](mailto:percyzulu2@outlook.com).
+
+⚡ Fact about me: I enjoy my own company.
+
+🌐 Find out more about me and my projects on my personal website: [Percy Zulu](https://percy-zulu.netlify.app).
